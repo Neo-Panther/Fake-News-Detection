@@ -9,6 +9,7 @@ Read from [Data/README](Data/README.txt).
  1. Clone the repo.
  2. cd directory/path/to/repo
  3. Setup a virtualenv. Command: `python -m venv .`
+ 4. Run the ipython notebook in the virtual environment
 
 ## References
 ### Dataset Used : LIAR Dataset
