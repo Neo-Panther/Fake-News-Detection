@@ -12,6 +12,9 @@ Read from [Data/README](Data/README.txt).
  4. Run the ipython notebook in the virtual environment
 
 ## References
+### Pretrained Embedding Vectors:
+ - GloVe: Global Vectors for Word Representation: https://nlp.stanford.edu/projects/glove/
+
 ### Dataset Used : LIAR Dataset
  - Paper : https://arxiv.org/abs/1705.00648
  - Data : https://www.cs.ucsb.edu/~william/data/liar_dataset.zip

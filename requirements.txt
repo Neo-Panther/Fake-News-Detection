@@ -4,3 +4,4 @@ pandas==2.2.3
 Keras==3.6.0
 tensorflow==2.18.0
 nvidia-cuda-runtime-cu12==12.6.77
+Keras-Preprocessing==1.1.2
