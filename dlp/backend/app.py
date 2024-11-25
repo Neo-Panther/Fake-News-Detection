@@ -12,11 +12,10 @@ def detect_fake_news():
     help = request.json['help']
     fake_score = random.uniform(0, 7)
     is_fake = fake_score > 3.5
-
+#    Confidence, Title- Correct, incorrect etc with color.
     return jsonify({
-        'help': help,
-        'isFake': is_fake,
-        'confidence': fake_score/7
+        # 'confidence': confidence
+        # 'Title': title
     })
 
 
