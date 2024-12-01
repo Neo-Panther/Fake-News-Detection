@@ -1,4 +1,6 @@
 *:Zone.Identifier
 *.pkl
 glove*
-*.hdf5
+*.keras
+train.log
+logs*
