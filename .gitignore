@@ -1,7 +1,6 @@
 *:Zone.Identifier
 *.pkl
 glove*
-*.keras
 train.log
 logs*
 .venv*
